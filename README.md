@@ -387,6 +387,4 @@ Our commitment to code quality, performance optimization, and user satisfaction 
 
 </div>
 
----
 
-*Last updated: June 2025 🗓️*
